@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-main branch change
-=======
-future branch change
->>>>>>> a00acb2 (update from feature-1)
+Hello from main
+Main branch change
+Feature branch change
